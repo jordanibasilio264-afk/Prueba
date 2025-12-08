@@ -46,8 +46,21 @@ main{
 }
 img{
     width: 40px;
-    border-radius: 100%;
-    float:  left;  
+    border-radius: 100%; 
+}
+
+h4{
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 80px;
+    left: 60px;
+}
+
+h5{
+    position: relative;
+    bottom: 100px;
+    left: 60px;
+    color: aquamarine;
 }
 
 @media screen and (max-width: 600px) {
